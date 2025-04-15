@@ -1,3 +1,5 @@
+![Spartan Logo](spartan.png)
+
 WIPESEC Mk I
 
 Multi-Functional Alcohol-Based Tactical Sanitation Unit (M-ATSU)
