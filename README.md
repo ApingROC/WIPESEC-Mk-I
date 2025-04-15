@@ -1,4 +1,4 @@
-![Spartan Logo](spartan.png)
+![Spartan Logo](20F2BC25-DCFD-4A82-A6CD-10BE708727EE.png)
 
 WIPESEC Mk I
 
