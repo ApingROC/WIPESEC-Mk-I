@@ -19,7 +19,7 @@ WIPESEC Mk I is a triple-function tactical consumable engineered for frontline s
 Feature	Function
 75% Ethanol Content	Effective disinfection of hands, wounds, and post-defecation regions
 Firestarter-Ready	Ignites reliably with ferro rod or spark in all weather conditions
-Bitterant-Enhanced	Denatonium Benzoate prevents misuse and discourages ingestion
+Bitterant-Enhanced	Methyl Ethyl Ketone (MEK) prevents misuse and discourages ingestion
 Dual-Ply Performance	Tear-resistant construction; efficient for wiping and tinder generation
 Soft Tissue Tolerant	Dermatologically tested, sphincter-certified
 
